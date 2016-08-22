@@ -19,7 +19,7 @@ At Boundary I implemented the prototype for the backend of the product, original
 ### Powerset - Engineer
 *2007 - 2010*
 
-At Powerset I started as a run of the mill Ruby on Rails monkey. My responsibility quickly expanded, however, after half my team quit, leaving us shorthanded in the run up to launch. Despite a dire deadline and crazed requirements like rebuilding our infrastructure from scratch in EC2 a week before launch, I managed to exceed the deadline by pushing the launch button before the press embargo lifted. At Powerset I also wrote one of the first OSS implementations of Amazon's Dynamo paper, helping kick off the NoSQL movement.
+At Powerset I started as a run of the mill Ruby on Rails monkey. My responsibility quickly expanded, however, after half my team quit, leaving us shorthanded in the run up to launch. Despite a dire deadline and crazed requirements like rebuilding our infrastructure from scratch in EC2 a week before launch, I managed to ship the product by the deadline. At Powerset I also wrote one of the first OSS implementations of Amazon's Dynamo paper, helping kick off the NoSQL movement.
 
 ### Chariot Solutions - Enterprise Architect
 *2005 - 2007*
