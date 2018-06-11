@@ -6,8 +6,22 @@ I build things: software, teams and companies. My experience writing software ru
 
 ## Experience
 
+### UpGuard - VP of Engineering, CTO
+* May 2017 - June 2018*
+
+When I first started at UpGuard my mandate was to grow the team. I took over a hiring process that wasn't working properly, with barely any pipeline and no set out process. I quickly brought in tools to kick-start the hiring pipeline and wrote up interview loops meant to wholistically and fairly evaluate candidates. I conducted interview training with the entire team, preparing them to run the different loops of the interview process.
+
+Shortly thereafter we went through a re-organization and I was promoted to CTO. The platform engineering team was folded into my group and I acquired responsibility for the uptime of our hosted instances as well as the kubernetes migration project for our on-premise deployments. I was able to help the platform team significantly improve the stability of our hosted instances, which were suffering from database corruption and data loss. I gave the team a process to follow for recovering the corrupted Postgres databases and they were able to recover data for our largest hosted customer almost complete. Meanwhile I identified the problematic tooling that was causing the corruption and fixed it. The result was that our platform team went from constantly fighting late night fires to being able to finish their kubernetes migration and monitoring efforts.
+
+One of my last projects at UpGuard was to build a breach-seeking search engine. I split off a very small team to take on this greenfield effort. We were able to very quickly put together a distributed system using Orleans on top of GKS. By using other high-leverage technologies on the Google Cloud Platform, like Bigtable and Datastore we were able to ship a functioning breach search engine on only a few months.
+
+### Thinair - Director of Engineering
+*September 2016 - May 2017*
+
+Thinair was a turnaround effort. I took over an engineering team that had built a lot of very interesting technology, but they were having trouble getting it into the hands of customers. While there I retooled a hiring process that previously had rejected practically every candidate, resulting in two key hires: a senior backend engineer and an SRE team lead. I resolved conflicts that were causing dysfunction in the team, and I removed engineering process that was causing unecessary friction. By December the team was hitting on all cylinders and we were able to deliver a complete product pivot by February. 
+
 ### Opsee - CEO / Co-founder
-*March 2015 - Present*
+*March 2015 - August 2016*
 
 I implemented the prototype of our product, from backend to frontend, recruited a founding team and raised funding. From there, I built a well rounded and effective product team to take the product vision from prototype to a market ready product. Since the start of the year I've been focusing exclusively on marketing the product, evangelizing to the developer community and ultimately trying to get our product into the hands of as many engineers as possible.
 
