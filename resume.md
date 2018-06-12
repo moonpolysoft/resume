@@ -7,7 +7,7 @@ I build things: software, teams and companies. My experience writing software ru
 ## Experience
 
 ### UpGuard - VP of Engineering, CTO
-* May 2017 - June 2018*
+*May 2017 - June 2018*
 
 When I first started at UpGuard my mandate was to grow the team. I took over a hiring process that wasn't working properly, with barely any pipeline and no set out process. I quickly brought in tools to kick-start the hiring pipeline and wrote up interview loops meant to wholistically and fairly evaluate candidates. I conducted interview training with the entire team, preparing them to run the different loops of the interview process.
 
@@ -46,7 +46,7 @@ At Powerset I started as a run of the mill Ruby on Rails monkey. My responsibili
 Chariot is a consulting shop specializing in IT Janitorial Services for Enterprises in and around Philadelphia. Typically, we got called in whenever either the internal team, management or both had turned a project into an intractable morass. Rotating between contracts for Chariot gave me a great deal of insight into the failure modes for IT projects at a very early point in my career, and how best to turn them around if it was possible.
 
 ### Fort Hill Company - Architect
-* 2004 - 2005*
+*2004 - 2005*
 
 I grew up in Delaware, and Fort Hill Company was one of the few software development companies actually located in the state at the time. Oddly, Fort Hill wound up being a breeding ground for more than its fair share of world class technologists: Brian McAllister, now the CTO of platform at Groupon, Mark Chadwick, formerly Chief Architect of Invite Media, and myself of course. Fort Hill is where we all cut our teeth, building and operating a SaaS product back when they were called ASPs.
 
