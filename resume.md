@@ -15,6 +15,11 @@ Shortly thereafter we went through a re-organization and I was promoted to CTO. 
 
 One of my last projects at UpGuard was to build a breach-seeking search engine. I split off a very small team to take on this greenfield effort. We were able to very quickly put together a distributed system using Orleans on top of GKS. By using other high-leverage technologies on the Google Cloud Platform, like Bigtable and Datastore we were able to ship a functioning breach search engine on only a few months.
 
+### HBO's Silicon Valley, Season 5 - Technical Consultant
+*October 2017 - March 2018*
+
+Produced code screens, kanban boards, and running programs for use in the Silicon Valley TV show. Also consulted on the realism of a number of technical details in the plotline of the season.
+
 ### Thinair - Director of Engineering
 *September 2016 - May 2017*
 
