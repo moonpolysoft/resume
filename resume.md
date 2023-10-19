@@ -6,6 +6,15 @@ I build things: software, teams and companies. My experience writing software ru
 
 ## Experience
 
+### LinkedIn - Staff Software Engineer - Performance Team
+*August 2018 - Present*
+
+I started on the performance team as something of a fixer. I quickly gained a reputation of being able to take at-risk projects and turn them around. The first of these was the real-time pipeline for Javascript crash reporting. Undocumented and inherited with minimal hand-off from a departing engineer, I was able quickly identify the missing pieces and design defects that would prevent it from handling production scale. I got the project back on track and was able to deliver it to stakeholders with minimal slippage from the original engineer's estimates. The capabilities delivered allowed web engineers better insights into error rates during canary deployments, allowing them to ship with confidence.
+
+After that project I officially joined the Sitespeed team, which owns Real User Monitoring. As part of Sitespeed I've overhauled our entire data processing pipeline; one of the largest in both scale and complexity within LinkedIn. I worked with senior leadership to develop success metrics to track data availability and correctness, and used those to prioritize the upgrade of our 80+ data processing jobs. 
+
+Building on that technical foundation, most recently I led a cross-functional team to provide insights into performance changes during A/B testing. Based on novel research, the project has driven a massive reduction in MTTD for a large class of performance problems. It's now being used as the basis for the "safe ramp" concept where various early operational signals can be used to prevent regressions during feature rollout. I gave a talk on this work at Monitorama 2023: https://vimeo.com/843997448
+
 ### UpGuard - VP of Engineering, CTO
 *May 2017 - June 2018*
 
@@ -23,7 +32,7 @@ Produced code screens, kanban boards, and running programs for use in the Silico
 ### Thinair - Director of Engineering
 *September 2016 - May 2017*
 
-Thinair was a turnaround effort. I took over an engineering team that had built a lot of very interesting technology, but they were having trouble getting it into the hands of customers. While there I retooled a hiring process that previously had rejected practically every candidate, resulting in two key hires: a senior backend engineer and an SRE team lead. I resolved conflicts that were causing dysfunction in the team, and I removed engineering process that was causing unecessary friction. By December the team was hitting on all cylinders and we were able to deliver a complete product pivot by February. 
+Thinair was a turnaround effort. I took over an engineering team that had built a lot of very interesting technology, but they were having trouble getting it into the hands of customers. While there I retooled a hiring process that previously had rejected practically every candidate, resulting in two key hires: a senior backend engineer and an SRE team lead. I resolved conflicts that were causing dysfunction in the team, and I removed engineering process that was causing unecessary friction. By December the team was hitting on all cylinders and we were able to deliver a complete product pivot by February.
 
 ### Opsee - CEO / Co-founder
 *March 2015 - August 2016*
