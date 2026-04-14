@@ -55,6 +55,6 @@ Java, Scala, Python, Golang, Erlang, Clojure, C, Ruby, SQL
 ## Speaking & Thought Leadership
 
 - **HBO's *Silicon Valley*, Season 5** — Technical consultant. Produced code screens, kanban boards, and running programs for the show; consulted on technical realism of the season's plotline.
-- **Monitorama 2023** — [Performance Testing Experimentation At Scale](https://vimeo.com/843997448)
+- **Monitorama 2023** — [Performance Testing Experimentation At Scale](https://www.youtube.com/watch?v=GVhQwYiubpY)
 - **Strange Loop 2014** — [Ludicrous Speed: Designing for Performance on the JVM](https://www.youtube.com/watch?v=X1rWgshr3PY)
 - **Erlang Factory 2013** — [Bottleneck Whack-A-Mole at Scale](https://www.youtube.com/watch?v=p7ZocmkXgWY)
